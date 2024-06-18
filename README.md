@@ -5,9 +5,9 @@ Integrantes:
 - Romero Ignacio
 - Ruiz Ignacio
 
--Arquetipo: Videojuego de deportes competitivo.
--Misión: Proporcionar una experiencia divertida y competitiva de fútbol 2D para jugadores de todas las edades.
--Visión: Ser el juego de fútbol 2D más popular y accesible en todas las plataformas.
+Arquetipo: Videojuego de deportes competitivo.
+Misión: Proporcionar una experiencia divertida y competitiva de fútbol 2D para jugadores de todas las edades.
+Visión: Ser el juego de fútbol 2D más popular y accesible en todas las plataformas.
 
 FODA:
 
