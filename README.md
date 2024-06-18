@@ -6,12 +6,13 @@ ___Integrantes___
 
 Romero Ignacio // Ruiz Ignacio
 
+___Modelo de Negocio___
 
-Arquetipo: Videojuego de deportes competitivo.
-Misión: Proporcionar una experiencia divertida y competitiva de fútbol 2D para jugadores de todas las edades.
-Visión: Ser el juego de fútbol 2D más popular y accesible en todas las plataformas.
+- Arquetipo: Videojuego de deportes competitivo.
+- Misión: Proporcionar una experiencia divertida y competitiva de fútbol 2D para jugadores de todas las edades.
+- Visión: Ser el juego de fútbol 2D más popular y accesible en todas las plataformas.
 
-- FODA:
+___FODA___
 - Fortalezas: Juego rápido, fácil de aprender, divertido para multijugador.
 - Oportunidades: Creciente interés en juegos multijugador casuales.
 - Debilidades: Competencia con juegos de fútbol 3D más avanzados.
